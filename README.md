@@ -15,4 +15,4 @@ The following scopes show the complete BPSK communication process.
 - Signal after AWGN channel
 - Recovered demodulated signal
 
-![BPSK Output](output.png)
+![BPSK Output](OUTPUT.png)
